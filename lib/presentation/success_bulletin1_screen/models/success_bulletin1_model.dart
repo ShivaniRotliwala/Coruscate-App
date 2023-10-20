@@ -1,0 +1,1 @@
+class SuccessBulletin1Model {}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684073506659",
+    "project_id": "coruscateapp-49c43",
+    "storage_bucket": "coruscateapp-49c43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684073506659:android:124d0710d9b0f5d4992556",
+        "android_client_info": {
+          "package_name": "com.coruscate.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684073506659-a9r56sgpqvt2o5t6q04nvq1b113t3oei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLRtNIamkk5WynRmt21XlCVPHQCspMs48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684073506659-a9r56sgpqvt2o5t6q04nvq1b113t3oei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
